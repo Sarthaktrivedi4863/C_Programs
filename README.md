@@ -1,1 +1,1 @@
-# C_calculator
+Multitasking Calculator by C programming
